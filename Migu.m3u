@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://raw.githubusercontent.com/ikunclub/m3u/refs/heads/main/Migu-4K-1.png" group-title="咪咕直播4K",咪咕直播 4K-1
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://raw.githubusercontent.com/ikunclub/m3u/refs/heads/main/Migu-4K-1.png" group-title="咪咕体育4K",咪咕直播 4K-1
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://raw.githubusercontent.com/ikunclub/m3u/refs/heads/main/Migu-4K-2.png" group-title="咪咕直播4K",咪咕直播 4K-2
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://raw.githubusercontent.com/ikunclub/m3u/refs/heads/main/Migu-4K-2.png" group-title="咪咕体育4K",咪咕直播 4K-2
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
